@@ -1,0 +1,11 @@
+{
+  "name": "clem-fandango-bot",
+  "version": "1.0.0",
+  "description": "Hello, internet. This is Clem Fandango. Can you hear me?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Belling <danhbelling@gmail.com>",
+  "license": "ISC"
+}
