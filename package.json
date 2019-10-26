@@ -2,10 +2,27 @@
   "name": "clem-fandango-bot",
   "version": "1.0.0",
   "description": "Hello, internet. This is Clem Fandango. Can you hear me?",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "clembot": "./src/index.js"
+  },
   "author": "Dan Belling <danhbelling@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "figlet": "^1.2.4",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
 }
