@@ -1,5 +1,7 @@
 # Clem Fandango Bot
 
+[![npm version](https://badge.fury.io/js/clem-fandango-bot.svg)](https://badge.fury.io/js/clem-fandango-bot)
+
 ClemBot is the health check for your Discord bot connection, that you never knew you needed. Much like Alexander Graham Bell's pioneering message to Watson, ClemBot will send a message to a random member (read: victim) in your configured Discord channel if the handshake with Discord's API was successful.
 
 ![](https://i.redd.it/pmxcd1170pyz.png)
