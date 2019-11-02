@@ -56,4 +56,4 @@ You will see logging from ClemBot whenever a member is notified.
 
 ## Future Development
 
-The bot is fairly simple for now. I intend to allow future customization of the bot with additional flags for specifying notification frequency, which message ot notify, etc. Pull Requests and Issues are welcome if you would like to assist with development!
+The bot is fairly simple for now. I intend to allow future customization of the bot with additional flags for specifying notification frequency, which message to notify, etc. Pull Requests and Issues are welcome if you would like to assist with development!
